@@ -15,12 +15,9 @@ RESULTS     = 20
 DIAS_FILTRO = 7   # vagas dos últimos N dias
 
 BUSCAS = [
-    "Power BI",
-    "dashboard analista dados",
-    "Business Intelligence",
-    "analista BI",
-    "PCD dados",
-    "banco de talentos dados",
+    "<Nome do cargo>",
+    "<Nome do cargo>",
+   
 ]
 # ================================================================
 
@@ -112,11 +109,11 @@ def salvar_excel(df, df_pcd, df_banco, df_norm):
 
 def buscar_vagas():
     print("\n" + "=" * 70)
-    print("🤖 AUTOMAÇÃO DE BUSCA DE VAGAS — Rodrigo Salgado")
+    print("AUTOMAÇÃO DE BUSCA DE VAGAS")
     print("=" * 70)
-    print(f"📅 Filtro: vagas dos últimos {DIAS_FILTRO} dias")
-    print(f"📍 Filtro: Remoto (Brasil todo) ou Híbrido apenas em Brasília-DF")
-    print(f"🔍 Termos: {', '.join(BUSCAS)}")
+    print(f"Filtro: vagas dos últimos {DIAS_FILTRO} dias")
+    print(f"Filtro: Remoto (Brasil todo) ou Híbrido apenas em Brasília-DF")
+    print(f"Termos: {', '.join(BUSCAS)}")
     print("=" * 70 + "\n")
 
     todas_vagas = []
