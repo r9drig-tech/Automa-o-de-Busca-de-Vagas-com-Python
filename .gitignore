@@ -1,0 +1,15 @@
+# Excel gerado automaticamente
+output/*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
