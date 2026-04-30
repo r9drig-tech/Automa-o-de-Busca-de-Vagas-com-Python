@@ -103,7 +103,7 @@ python src/busca_vagas.py
 
 ```
 ======================================================================
-🤖 AUTOMAÇÃO DE BUSCA DE VAGAS — Rodrigo Salgado
+🤖 AUTOMAÇÃO DE BUSCA DE VAGAS — Analista de BI
 ======================================================================
 📅 Filtro: vagas dos últimos 7 dias
 📍 Filtro: Remoto (Brasil todo) ou Híbrido apenas em Brasília-DF
