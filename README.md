@@ -156,8 +156,14 @@ vagas_dados_YYYY-MM-DD.xlsx
 **Rodrigo Salgado**  
 Analista de Power BI | Especialista em BI & Dashboards | Em transição para Engenheiro de Dados & IA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+<p align="left">
+  <a href="https://linkedin.com/in/r9drig-power-bi/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/r9drig-tech">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
