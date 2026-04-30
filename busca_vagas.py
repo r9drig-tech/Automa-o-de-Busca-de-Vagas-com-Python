@@ -7,8 +7,8 @@ import os
 # ================================================================
 # ⚙️ CONFIGURAÇÕES — edite apenas aqui
 # ================================================================
-APP_ID  = "799cc053"
-APP_KEY = "96b9cf1b88a3cd955ee807b26a50e787"
+APP_ID  = "seu_app_id"
+APP_KEY = "seu_app_key"
 
 PAIS        = "br"
 RESULTS     = 20
