@@ -124,7 +124,7 @@ python src/busca_vagas.py
 ♿ VAGAS PCD (2): ...
 🗂️ BANCO DE TALENTOS (1): ...
 
-💾 Excel salvo em: 'output/vagas_dados_2026-04-30.xlsx'
+💾 Excel salvo em: 'output/vagas_dados_YYYY-MM-DD.xlsx'
 ```
 
 ---
